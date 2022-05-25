@@ -68,5 +68,5 @@ Discord: DhanrajPriyadarshi#1604
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+  <img alt="#474342" src="https://user-images.githubusercontent.com/80586983/170293418-a34dba4a-e5a9-4678-bbd5-1d5507869214.png" width="25" height="20" /><img alt="#fbedf6" src="https://user-images.githubusercontent.com/80586983/170293698-0b2ddb83-e08d-4498-ba6f-f44ff99df387.png" width="25" height="20" /><img alt="#c9594d" src="https://user-images.githubusercontent.com/80586983/170293847-eaac0951-a745-4a12-810a-0ce63e171bc6.png" width="25" height="20" /><img alt="#f8b9b2" src="https://user-images.githubusercontent.com/80586983/170293973-e48f7413-f028-4c19-9e75-6560789fe802.png" width="25" height="20" /><img alt="#ae9c9d" src="https://user-images.githubusercontent.com/80586983/170294100-e4c487bb-b2e5-4b3b-b8ed-ed3498a0421b.png" width="25" height="20" />
 </p>
