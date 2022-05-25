@@ -56,7 +56,7 @@ not-dhanraj@github
 OS: Arch Linux x86_64
 Shell: zsh 5.8
 Pronouns: He/Him
-Location: Bihar, India
+Location: Bihar, IN
 Frameworks: Flutter
 Languages: Dart, Python
 Learning: Python, JavaScript,
