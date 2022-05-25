@@ -9,10 +9,9 @@
 
 Hi, my name is **Dhanraj Priyadarshi**. I am:
 - 🇮🇳 A boy born and grew up in India
-- <img src="https://user-images.githubusercontent.com/80586983/170278093-028432bf-6b6e-454a-8b62-cf2a00786a10.png" width="14px"> I have a good understanding of Dart Language along with Flutter.
 - 💻 A developer (small projects right now and still learning)
 - 📹 A Tech Savvy guy
--    I like reading books and listening to music.
+- 📖 Likes reading books and listening to music.
 
 ![not-dhanraj](https://komarev.com/ghpvc/?username=not-dhanraj)
 
@@ -41,3 +40,33 @@ Here is a list of technologies that i have experience with:
 [![Debian](https://img.shields.io/badge/-Debian-purple?style=for-the-badge&logo=debian&logoColor=FFFFFF)](https://debian.org)
 [![EndeavourOS](https://img.shields.io/badge/EndeavourOS-%2335BF5C.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF)](https://endeavouros.com)
 [![Windows](https://img.shields.io/badge/windows%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/software-download/windows10)
+
+
+---
+
+```zsh
+> neofetch
+```
+
+<img align="left" src="https://pbs.twimg.com/profile_images/1447797994145734656/jrBe5ZpO_400x400.jpg" alt="Maybe Dhanraj" width="320" /> 
+
+```csharp
+not-dhanraj@github
+-------------------------
+OS: Arch Linux x86_64
+Shell: zsh 5.8
+Pronouns: He/Him
+Location: Bihar, India
+Frameworks: Flutter
+Languages: Dart, Python
+Learning: Python, JavaScript,
+           HTML, CSS
+Hobbies: Gardening, Gaming, Reading, Listening Music
+Commits: 6969
+Stars: 14
+Discord: DhanrajPriyadarshi#1604
+```
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+</p>
