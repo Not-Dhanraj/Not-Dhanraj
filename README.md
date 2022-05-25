@@ -62,8 +62,8 @@ Languages: Dart, Python
 Learning: Python, JavaScript,
            HTML, CSS
 Hobbies: Gardening, Gaming, Reading, Listening Music
-Commits: 6969
-Stars: 14
+Commits: ***
+Stars: **
 Discord: DhanrajPriyadarshi#1604
 ```
 <p align="left">
