@@ -24,9 +24,7 @@ Currently Working on:
 ## 🌏 Social
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-lightblue?logo=telegram&logoColor=333333&style=for-the-badge)](https://telegram.me/berserkdhanraj)<br>
-
-
+[![Telegram](https://img.shields.io/badge/Telegram-lightblue?logo=telegram&logoColor=333333&style=for-the-badge)](https://telegram.me/berserkdhanraj)
 [![Twitter](https://img.shields.io/badge/Twitter-lightblue?logo=twitter&logoColor=333333&style=for-the-badge)](https://twitter.com/berserkdhanraj)<br>
 
 ## ⚡ Technologies
