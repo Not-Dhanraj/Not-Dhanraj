@@ -8,7 +8,7 @@
 </a>
 
 Hi, my name is **Dhanraj Priyadarshi**. I am:
-- 🇮🇳 A boy born and grew up in India
+- 🇮🇳 A guy born and grew up in India
 - 💻 A developer (small projects right now and still learning)
 - 📹 A Tech Savvy guy
 - 📖 Likes reading books and listening to music.
