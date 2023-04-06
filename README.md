@@ -48,7 +48,7 @@ Here is a list of technologies that i have experience with:
 > neofetch
 ```
 
-<img align="left" src="https://pbs.twimg.com/profile_images/1447797994145734656/jrBe5ZpO_400x400.jpg" alt="Maybe Dhanraj" width="320" /> 
+<img align="left" src="[https://pbs.twimg.com/profile_images/1447797994145734656/jrBe5ZpO_400x400.jpg" alt="Maybe Dhanraj](https://avatars.githubusercontent.com/u/80586983?v=4)" width="320" /> 
 
 ```csharp
 not-dhanraj@github
