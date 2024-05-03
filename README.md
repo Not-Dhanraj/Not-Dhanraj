@@ -58,7 +58,7 @@ Shell: zsh 5.8
 Pronouns: He/Him
 Location: Bihar, IN
 Frameworks: Flutter
-Languages: Dart, Python
+Languages: Dart, Python, C, C++
 Learning: Python, JavaScript,
            HTML, CSS
 Hobbies: Gardening, Gaming, Reading, Listening Music
