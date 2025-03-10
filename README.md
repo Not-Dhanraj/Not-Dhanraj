@@ -56,7 +56,7 @@ not-dhanraj@github
 OS: Arch Linux x86_64
 Shell: zsh 5.8
 Pronouns: He/Him
-Location: Bihar, IN
+Location: IN
 Frameworks: Flutter
 Languages: Dart, Python, C, C++
 Learning: Python, JavaScript,
@@ -64,7 +64,7 @@ Learning: Python, JavaScript,
 Hobbies: Gardening, Gaming, Reading, Listening Music
 Commits: ***
 Stars: **
-Discord: DhanrajPriyadarshi#1604
+Discord: berserkdhanraj
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
