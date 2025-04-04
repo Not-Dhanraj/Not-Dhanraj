@@ -3,8 +3,8 @@
 
 ## 💡 About
 <a href="https://github.com/not-dhanraj">
-<!--   <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=not-dhanraj&theme=radical&show_icons=true)"> -->
-  <img align="right" width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=not-dhanraj&theme=radical">
+  <img align="right" width="65%" src="https://github-readme-stats.vercel.app/api?username=not-dhanraj&theme=radical&show_icons=true)">
+<!--   <img align="right" width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=not-dhanraj&theme=radical"> -->
 </a>
 
 Hi, my name is **Dhanraj Priyadarshi**. I am:
