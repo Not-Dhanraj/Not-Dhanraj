@@ -8,21 +8,15 @@
 </a>
 
 Hi, my name is **Dhanraj Priyadarshi**. I am:
-- 🇮🇳 A guy born and grew up in India
-- 💻 A developer (small projects right now and still learning)
-- 📹 A Tech Savvy guy
-- 📖 Likes reading books and listening to music.
-
-![not-dhanraj](https://komarev.com/ghpvc/?username=not-dhanraj)
 
 Currently Working on:
-
-- [WallCanic](https://bit.ly/WallCanic)
+- Orion
+- WallCanic
 - Elucia
 
 ## 🌏 Social
 
-
+![not-dhanraj](https://komarev.com/ghpvc/?username=not-dhanraj)
 [![Telegram](https://img.shields.io/badge/Telegram-lightblue?logo=telegram&logoColor=333333&style=for-the-badge)](https://telegram.me/berserkdhanraj)
 [![Twitter](https://img.shields.io/badge/Twitter-lightblue?logo=twitter&logoColor=333333&style=for-the-badge)](https://twitter.com/berserkdhanraj)<br>
 
