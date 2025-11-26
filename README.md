@@ -1,15 +1,14 @@
 <h1 align=left><b>Hey, <img src="https://user-images.githubusercontent.com/80586983/170262939-814e2ea9-1881-4d16-9acd-fbc92a3c359a.gif" width="30px"><br>I'm Dhanraj Priyadarshi</h1>
 
-
+<!--
 ## 💡 About
 <a href="https://github.com/not-dhanraj">
   <img align="right" width="65%" src="https://github-readme-stats.vercel.app/api?username=not-dhanraj&theme=radical&show_icons=true)">
-<!--   <img align="right" width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=not-dhanraj&theme=radical"> -->
-</a>
+</a> 
+-->
+Hi, my name is **Dhanraj Priyadarshi**.
 
-Hi, my name is **Dhanraj Priyadarshi**. I am:
-
-Currently Working on:
+I am Currently Working on:
 - Orion
 - WallCanic
 - Elucia
